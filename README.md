@@ -38,3 +38,13 @@ pip install -r requirements.txt
 Create a .env file in the root folder with your OpenAI API key:
 
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxx
+
+## 🚀 Run the App
+
+streamlit run image.py
+
+
+- Enter your prompt in the text box
+- Select image format (PNG or JPG)
+- Click Generate Image
+- View and download the generated image
