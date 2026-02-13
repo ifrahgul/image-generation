@@ -49,11 +49,6 @@ streamlit run image.py
 - Click Generate Image
 - View and download the generated image
 
-
-
-
-
-
 Recommended Prompts
 
 - A cute baby panda drinking bubble tea, ultra realistic, 4k
