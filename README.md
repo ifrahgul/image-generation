@@ -48,3 +48,16 @@ streamlit run image.py
 - Select image format (PNG or JPG)
 - Click Generate Image
 - View and download the generated image
+
+
+
+
+
+
+Recommended Prompts
+
+- A cute baby panda drinking bubble tea, ultra realistic, 4k
+- A futuristic cyberpunk city at night with neon lights, flying cars, cinematic
+- A magical forest with glowing plants and floating lights, digital art
+
+Add: ultra detailed, high resolution, cinematic lighting, 4k for best results
